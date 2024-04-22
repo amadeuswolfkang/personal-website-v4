@@ -8,8 +8,9 @@ export default function Home() {
   return (
     <Layout>
       <main>
+
         <div className="flex flex-col items-center md:flex-row md:justify-center md:items-start mb-2 pt-12 md:space-x-48 mx-8">
-          <Personal />
+        <Personal />
           <Resume />
           {/* <Projects/> */}
         </div>

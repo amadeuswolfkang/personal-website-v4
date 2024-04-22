@@ -4,7 +4,7 @@ import { FaLinkedin, FaTwitter, FaGithub } from 'react-icons/fa';
 
 const Personal = () => {
   return (
-    <div>
+    <div className="static md:sticky top-12 min-w-12">
       <div className="md:text-left text-center">
         {/* NAME AND INTRODUCTION */}
         <div className="text-nowrap text-5xl font-semibold mt-10 mb-3">
