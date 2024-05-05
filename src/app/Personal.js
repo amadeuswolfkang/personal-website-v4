@@ -17,10 +17,11 @@ const Personal = () => {
         <div className="flex items-center justify-center mb-10 h-64 md:w-64 md:h-64 ">
           <Image
             className="rounded-lg object-contain"
-            src="/headshot.jpg"
+            src="/headshot.png"
             alt="headshot"
             width={256}
             height={256}
+            unoptimized={true}
           />
         </div>
 
