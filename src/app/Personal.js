@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import { FaLinkedin, FaTwitter, FaGithub } from 'react-icons/fa';
+import { motion } from 'framer-motion';
 
 const Personal = () => {
   return (
@@ -24,6 +25,8 @@ const Personal = () => {
             unoptimized={true}
           />
         </div>
+
+        
 
         {/* ICON BAR */}
         <div className="flex items-center justify-center md:justify-start">

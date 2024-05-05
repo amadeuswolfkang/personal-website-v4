@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Personal from './Personal';
 import Resume from './Resume';
 import Layout from './layout'; // adjust the path based on your project structure
-// import Projects from './Projects';
+import Projects from './Projects';
 
 export default function Home() {
   return (
