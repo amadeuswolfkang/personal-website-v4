@@ -150,7 +150,7 @@ const Resume = () => {
               Nuclear Inventory Data Visualization
             </h5>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              Animated bar graph tracking nuclear warheads by country.
+              Dynamic bar graph tracking nuclear warheads by country.
             </p>
             <div className="flex flex-wrap">
               <span className="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 my-1 rounded dark:bg-blue-900 dark:text-blue-300 whitespace-nowrap">
