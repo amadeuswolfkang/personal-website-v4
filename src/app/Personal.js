@@ -16,7 +16,7 @@ const Personal = () => {
       initial="hidden"
       animate="visible"
       variants={variants}
-      transition={{ ease: 'easeOut', duration: 0.5, delay: 0.5 }}
+      transition={{ ease: 'easeOut', duration: 0.5 }}
     >
       <div className="md:text-left text-center">
         {/* NAME AND INTRODUCTION */}
