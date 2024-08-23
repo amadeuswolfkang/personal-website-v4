@@ -193,11 +193,10 @@ const Resume = () => {
             talking to people across the globe.
           </p>
           <p className="mb-4 text-sm text-gray-700 dark:text-gray-400">
-            I followed destiny and now I&apos;m a software engineer!
+            I followed destiny and now I work in technology!
           </p>
           <p className="mb-4 text-sm text-gray-700 dark:text-gray-400">
-            In my free time, I tinker with coding projects. I&apos;m also an
-            avid manga reader and competitive video game player.
+            In my free time, I tinker with coding projects. I&apos;m an avid reader and I study whatever piques my curiosity. I read everything from statistics to philosophy. I&apos;m also a fan of manga and competitive video games.
           </p>
         </div>
       </div>
